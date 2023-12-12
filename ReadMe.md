@@ -35,7 +35,20 @@ Feel free to explore my spellbook of repositories, open issues, and collaborate 
 
 🧙‍♂️✨ **May your code be bug-free and your potions be potent!** ✨🚀
 
-![JavaScript Sorcery](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![JavaScript Sorcery](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
 *Because every great README needs a touch of JavaScript sorcery!*
 
 **P.S.: Proudly a black Nigerian male weaving code magic in the digital realm. 🌍🇳🇬**
+
+
+
+
+
+
+
+
+
+
+
+
