@@ -22,11 +22,8 @@ I'm a passionate developer who loves building web applications and exploring new
 ![Unnamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnamed-lab&show_icons=true&theme=tokyonight) | <a href="https://github.com/unnamed-lab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnamed-lab&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br/>
-
-<a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2" alt="GitRoll Profile Badge"/></a>
-
 <br />
+<a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2" alt="GitRoll Profile Badge"/></a>
 
 ## Connect With Me
 
