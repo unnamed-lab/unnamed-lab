@@ -19,11 +19,25 @@ I'm a passionate developer who loves building web applications and exploring new
 
 ## GitHub Stats
 
-![Unnamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=unnamed-lab&show_icons=true&theme=tokyonight) | <a href="https://github.com/unnamed-lab/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnamed-lab&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=unnamed-lab&show_icons=true&theme=tokyonight"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=unnamed-lab&show_icons=true&theme=tokyonight" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/unnamed-lab/github-readme-stats"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unnamed-lab&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=unnamed-lab&theme=vision-friendly-dark&background=000000&border=FDFFFE" width="80%" alt="GitHub Streak">
+</div>
 
 <br />
-<a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2" alt="GitRoll Profile Badge"/></a>
+<div align="center">
+<a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2"  width="80% alt="GitRoll Profile Badge"/></a>
+</div>
 
 ## Connect With Me
 
