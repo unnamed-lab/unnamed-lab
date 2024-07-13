@@ -56,7 +56,7 @@ I'm a passionate developer who loves building web applications and exploring new
 </div>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=unnamed-lab&style=flat-square&color=blue" alt="The Ace"  height="30em" display="block">
+ <img src="https://komarev.com/ghpvc/?username=unnamed-lab&style=flat-square&color=blue" alt="Unnamed"  height="30em" display="block">
 </div>
 
 ### 📱 Connect with me:
