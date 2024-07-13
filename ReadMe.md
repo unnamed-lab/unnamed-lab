@@ -1,8 +1,24 @@
 # Hi there, I'm Adebayo Anuoluwa Success! 👋
 
-I'm a passionate developer who loves building web applications and exploring new technologies. My projects often involve a mix of frontend and backend technologies. Here's a glimpse of my tech stack:
+## About Me
+
+I am on a mission to become a proficient Software Engineer and a skilled Full-stack Developer. With a passion for turning ideas into reality through code, I'm dedicated to continuous learning and growth in technology.
+
+- **Name:** Anuoluwa S. Adebayo
+- **Nickname:** Unnamed
+- **Twitter:** [@unnamed_labs](https://twitter.com/unnamed_labs)
+
+
+## Goals and Aspirations
+
+My ultimate aim is to contribute meaningfully to the tech world as a Software Engineer and Full-stack Developer. By leveraging my passion, creativity, and dedication, I'm committed to:
+
+- Creating innovative and user-friendly applications.
+- Collaborating with fellow developers to tackle complex challenges.
+- Expanding my knowledge in various programming languages, frameworks, and technologies.
 
 ## Tech Stack
+I'm a passionate developer who loves building web applications and exploring new technologies. My projects often involve a mix of frontend and backend technologies. Here's a glimpse of my tech stack:
 
 ### Frontend
 - **JavaScript** and **TypeScript**: My go-to languages for creating interactive web experiences.
@@ -39,16 +55,15 @@ I'm a passionate developer who loves building web applications and exploring new
 <a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2"  width="80% alt="GitRoll Profile Badge"/></a>
 </div>
 
-## Connect With Me
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=unnamed-lab&style=flat-square&color=blue" alt="The Ace"  height="30em" display="block">
+</div>
 
-<a href="https://twitter.com/unnamedcodes">
-  <img align="left" alt="Unnamed | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a> @unnamedcodes
+### 📱 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mradebayo2018)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-success?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send?phone=2347034268709)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/unnamedcodes)
 
 Let's connect and collaborate! Feel free to explore my repositories and reach out. 🚀
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/unnamed-lab/count.svg" />
-</p>
