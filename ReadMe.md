@@ -52,7 +52,7 @@ I'm a passionate developer who loves building web applications and exploring new
 
 <br />
 <div align="center">
-<a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2"  width="80% alt="GitRoll Profile Badge"/></a>
+  <a href="https://gitroll.io/profile/uA7XhMz57ZKTJW1q9ud48LNsnACF2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uA7XhMz57ZKTJW1q9ud48LNsnACF2" width="80% alt="GitRoll Profile Badge"/></a>
 </div>
 
 <div align="center">
