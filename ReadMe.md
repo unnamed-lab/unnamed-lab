@@ -6,7 +6,7 @@ I am on a mission to become a proficient Software Engineer and a skilled Full-st
 
 - **Name:** Anuoluwa S. Adebayo
 - **Nickname:** Unnamed
-- **Twitter:** [@unnamed_labs](https://twitter.com/unnamed_labs)
+- **Twitter:** [@unnamedcodes](https://twitter.com/unnamedcodes)
 
 
 ## Goals and Aspirations
